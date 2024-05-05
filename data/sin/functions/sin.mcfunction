@@ -1,0 +1,1 @@
+execute as @e[tag=sincos, limit=1] at @s run function sin:sinus_main
