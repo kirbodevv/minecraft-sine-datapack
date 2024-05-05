@@ -1,4 +1,4 @@
-# MINECRAFT SINUS
+# MINECRAFT SINE
 
 This datapack adds sine function in minecraft.
 
